@@ -17,7 +17,7 @@ public class Main {
         System.out.println("Суммма зарплат работнгиков: " + sumSalary());
         System.out.println("Сотрудник с мин ЗП " + employeeMinSalary());
         System.out.println("Сотрудник с макс ЗП " + employeeMaxSalary());
-        System.out.println("Средняя зп сотрудников" + averageSalary());
+        System.out.println("Средняя зп сотрудников " + averageSalary());
         printFullName();
     }
 
